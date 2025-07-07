@@ -1,7 +1,7 @@
 {
   "name": "myownsite",
   "version": "0.1.0",
-  "homepage": "https://github.com/AlexanderDmitriev/MyOwnSite",
+  "homepage": "https://alexanderdmitriev.github.io/MyOwnSite",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
